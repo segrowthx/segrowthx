@@ -2,11 +2,11 @@
 
 # 🚀 SE GrowthX
 
-### Building Ideas. Creating Impact. Growing Together.
+### G R O W   B E Y O N D   L I M I T.
 
 **A Digital Agency Focused on Technology, Innovation & Business Growth**
 
-[Website](https://segrowthx.com) · [Email](mailto:segrowthx@gmail.com)
+[Website](https://segrowthx.com) · [Email](mailto:segrowthx.info@gmail.com) · [Whatsapp](https://api.whatsapp.com/send/?phone=8801575854740)
 
 ---
 
@@ -72,7 +72,7 @@ Explore our repositories, follow our progress, and collaborate with us on exciti
 
 ## 📬 Get in Touch
 
-- **Email:** segrowthx@gmail.com
+- **Email:** segrowthx.info@gmail.com
 - **Location:** Chattogram, Bangladesh
 - **Website:** [segrowthx.com](https://segrowthx.com)
 
@@ -82,6 +82,6 @@ Explore our repositories, follow our progress, and collaborate with us on exciti
 
 ### 💙 Build Better. Grow Faster. Go Further.
 
-_SE GrowthX — Your Partner in Digital Growth._
+_SE GrowthX — Grow Beyond Limit_
 
 </div>
