@@ -2,7 +2,7 @@
 
 # 🚀 SE GrowthX
 
-### G R O W   B E Y O N D   L I M I T.
+### G R O W      B E Y O N D      L I M I T S.
 
 **A Digital Agency Focused on Technology, Innovation & Business Growth**
 
@@ -82,6 +82,6 @@ Explore our repositories, follow our progress, and collaborate with us on exciti
 
 ### 💙 Build Better. Grow Faster. Go Further.
 
-_SE GrowthX — Grow Beyond Limit_
+_SE GrowthX — Grow Beyond Limits_
 
 </div>
